@@ -5,6 +5,7 @@ var app = Vue.createApp({
             practiceInfo:{
                 name: "Vue Js 3 Practice",
                 github : "https://github.com/nirjonroy",
+                image : "https://picsum.photos/200",
             },
             count:0
         };
